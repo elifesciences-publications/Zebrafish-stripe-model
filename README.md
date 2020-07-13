@@ -1,3 +1,5 @@
+This code is associated with the paper from Owen et al., "A quantitative modelling approach to zebrafish pigment pattern formation". eLife, 2020. http://doi.org/10.7554/eLife.52998
+
 # Zebrafish-stripe-model
 Model for zebrafish pattern formation - as in elife paper (accepted): A quantitative model for zebrafish pattern formation by Jennifer P. Owen, Robert N Kelsh and Christian Yates.
 
